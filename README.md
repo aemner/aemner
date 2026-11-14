@@ -118,6 +118,12 @@ I am a veteran **Systems Architect and Infrastructure Engineer** with over 15+ y
 > * Turnkey one-liner automated installer for clean Debian/Ubuntu servers.
 > * WPAD auto-discovery, Pi-Hole adblock sink integration, and high-performance cache purging engine.
 
+<p align="center">
+  <a href="https://github.com/aemner/squidpro">
+    <img src="screenshots/squidpro_dashboard.png" alt="SquidPro Dashboard" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
 ### ☁️ Proxmox Cloud Automation Engine
 > **Zero-Touch Virtual Machine Lifecycle Management**
 > * Automated template cloning, Cloud-Init injection, and network configuration via Proxmox VE REST APIs.
